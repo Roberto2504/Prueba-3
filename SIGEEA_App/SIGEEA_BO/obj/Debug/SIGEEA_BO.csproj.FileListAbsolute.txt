@@ -1,0 +1,18 @@
+G:\VI Semestre\Ingeniería de Sistemas II\Proyecto\SIGEEA_App\SIGEEA_BO\bin\Debug\SIGEEA_BO.dll.config
+G:\VI Semestre\Ingeniería de Sistemas II\Proyecto\SIGEEA_App\SIGEEA_BO\bin\Debug\SIGEEA_BO.dll
+G:\VI Semestre\Ingeniería de Sistemas II\Proyecto\SIGEEA_App\SIGEEA_BO\bin\Debug\SIGEEA_BO.pdb
+G:\VI Semestre\Ingeniería de Sistemas II\Proyecto\SIGEEA_App\SIGEEA_BO\obj\Debug\SIGEEA_BO.dll
+G:\VI Semestre\Ingeniería de Sistemas II\Proyecto\SIGEEA_App\SIGEEA_BO\obj\Debug\SIGEEA_BO.pdb
+G:\VI Semestre\Ingeniería de Sistemas II\Proyecto\SIGEEA_App\SIGEEA_BO\obj\Debug\SIGEEA_BO.csprojResolveAssemblyReference.cache
+G:\SIGEEA\SIGEEA-Software\SIGEEA_App\SIGEEA_BO\bin\Debug\SIGEEA_BO.dll.config
+G:\SIGEEA\SIGEEA-Software\SIGEEA_App\SIGEEA_BO\bin\Debug\SIGEEA_BO.dll
+G:\SIGEEA\SIGEEA-Software\SIGEEA_App\SIGEEA_BO\bin\Debug\SIGEEA_BO.pdb
+G:\SIGEEA\SIGEEA-Software\SIGEEA_App\SIGEEA_BO\obj\Debug\SIGEEA_BO.csprojResolveAssemblyReference.cache
+G:\SIGEEA\SIGEEA-Software\SIGEEA_App\SIGEEA_BO\obj\Debug\SIGEEA_BO.dll
+G:\SIGEEA\SIGEEA-Software\SIGEEA_App\SIGEEA_BO\obj\Debug\SIGEEA_BO.pdb
+C:\Users\Luis\Desktop\SIGEEA_Software\SIGEEA_App\SIGEEA_BO\bin\Debug\SIGEEA_BO.dll.config
+C:\Users\Luis\Desktop\SIGEEA_Software\SIGEEA_App\SIGEEA_BO\bin\Debug\SIGEEA_BO.dll
+C:\Users\Luis\Desktop\SIGEEA_Software\SIGEEA_App\SIGEEA_BO\bin\Debug\SIGEEA_BO.pdb
+C:\Users\Luis\Desktop\SIGEEA_Software\SIGEEA_App\SIGEEA_BO\obj\Debug\SIGEEA_BO.dll
+C:\Users\Luis\Desktop\SIGEEA_Software\SIGEEA_App\SIGEEA_BO\obj\Debug\SIGEEA_BO.pdb
+C:\Users\Luis\Desktop\SIGEEA_Software\SIGEEA_App\SIGEEA_BO\obj\Debug\SIGEEA_BO.csprojResolveAssemblyReference.cache
